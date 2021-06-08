@@ -1,0 +1,100 @@
+﻿tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres
+tt0000001,short,Carmencita,Carmencita,0,1894,\N,1,"Documentary,Short"
+tt0000002,short,Le clown et ses chiens,Le clown et ses chiens,0,1892,\N,5,"Animation,Short"
+tt0000003,short,Pauvre Pierrot,Pauvre Pierrot,0,1892,\N,4,"Animation,Comedy,Romance"
+tt0000004,short,Un bon bock,Un bon bock,0,1892,\N,\N,"Animation,Short"
+tt0000005,short,Blacksmith Scene,Blacksmith Scene,0,1893,\N,1,"Comedy,Short"
+tt0000006,short,Chinese Opium Den,Chinese Opium Den,0,1894,\N,1,Short
+tt0000007,short,Corbett and Courtney Before the Kinetograph,Corbett and Courtney Before the Kinetograph,0,1894,\N,1,"Short,Sport"
+tt0000008,short,Edison Kinetoscopic Record of a Sneeze,Edison Kinetoscopic Record of a Sneeze,0,1894,\N,1,"Documentary,Short"
+tt0000009,movie,Miss Jerry,Miss Jerry,0,1894,\N,45,Romance
+tt0000010,short,Exiting the Factory,La sortie de l'usine LumiÃ¨re Ã  Lyon,0,1895,\N,1,"Documentary,Short"
+tt0000011,short,Akrobatisches Potpourri,Akrobatisches Potpourri,0,1895,\N,1,"Documentary,Short"
+tt0000012,short,The Arrival of a Train,L'arrivÃ©e d'un train Ã  La Ciotat,0,1896,\N,1,"Action,Documentary,Short"
+tt0000013,short,The Photographical Congress Arrives in Lyon,Neuville-sur-SaÃ´ne: DÃ©barquement du congrÃ¨s des photographes Ã  Lyon,0,1895,\N,1,"Documentary,Short"
+tt0000014,short,The Sprinkler Sprinkled,L'arroseur arrosÃ©,0,1895,\N,1,"Comedy,Short"
+tt0000015,short,Autour d'une cabine,Autour d'une cabine,0,1894,\N,2,"Animation,Short"
+tt0000016,short,Barque sortant du port,Barque sortant du port,0,1895,\N,1,"Documentary,Short"
+tt0000017,short,Italienischer Bauerntanz,Italienischer Bauerntanz,0,1895,\N,1,"Documentary,Short"
+tt0000018,short,Das boxende KÃ¤nguruh,Das boxende KÃ¤nguruh,0,1895,\N,1,Short
+tt0000019,short,The Clown Barber,The Clown Barber,0,1898,\N,\N,"Comedy,Short"
+tt0000020,short,The Derby 1895,The Derby 1895,0,1895,\N,1,"Documentary,Short,Sport"
+tt0549034,tvEpisode,All in the Line of Duty: Part 1,All in the Line of Duty: Part 1,0,1984,\N,\N,"Drama,Romance"
+tt0549035,tvEpisode,All in the Line of Duty: Part 2,All in the Line of Duty: Part 2,0,1984,\N,\N,"Drama,Romance"
+tt0549036,tvEpisode,Alternatives: Part 1,Alternatives: Part 1,0,1981,\N,\N,"Drama,Romance"
+tt0549037,tvEpisode,Alternatives: Part 2,Alternatives: Part 2,0,1981,\N,\N,"Drama,Romance"
+tt0549038,tvEpisode,Another Man's Poison: Part 2,Another Man's Poison: Part 2,0,1983,\N,\N,"Drama,Romance"
+tt0549039,tvEpisode,An Act of Love: Part 1,An Act of Love: Part 1,0,1993,\N,\N,"Drama,Romance"
+tt0549040,tvEpisode,An Act of Love: Part 2,An Act of Love: Part 2,0,1993,\N,22,"Drama,Romance"
+tt0549041,tvEpisode,An Axe to Grind: Part 1,An Axe to Grind: Part 1,0,1984,\N,\N,"Drama,Romance"
+tt0549042,tvEpisode,An Axe to Grind: Part 2,An Axe to Grind: Part 2,0,1984,\N,\N,"Drama,Romance"
+tt0549043,tvEpisode,Another Country: Part 1,Another Country: Part 1,0,1993,\N,\N,"Drama,Romance"
+tt0549044,tvEpisode,Another Country: Part 2,Another Country: Part 2,0,1993,\N,\N,"Drama,Romance"
+tt0549045,tvEpisode,Another Man's Poison: Part 1,Another Man's Poison: Part 1,0,1983,\N,\N,"Drama,Romance"
+tt0549046,tvEpisode,Armed and Dangerous: Part 1,Armed and Dangerous: Part 1,0,1992,\N,\N,"Drama,Romance"
+tt0549047,tvEpisode,Armed and Dangerous: Part 2,Armed and Dangerous: Part 2,0,1992,\N,\N,"Drama,Romance"
+tt0549048,tvEpisode,As Time Goes By: Part 1,As Time Goes By: Part 1,0,1991,\N,\N,"Drama,Romance"
+tt0549049,tvEpisode,As Time Goes By: Part 2,As Time Goes By: Part 2,0,1991,\N,\N,"Drama,Romance"
+tt0836269,tvEpisode,Slimy x Stingy x Inside a Cave,Slimy x Stingy x Inside a Cave,0,2000,\N,\N,"Action,Adventure,Animation"
+tt0836270,tvEpisode,Sounds in Heart x Kurapica x Life-Threatening Chain,Sounds in Heart x Kurapica x Life-Threatening Chain,0,2000,\N,\N,"Action,Adventure,Animation"
+tt0836271,tvEpisode,Spider's Web x Captured x Assassin Technique,Spider's Web x Captured x Assassin Technique,0,2001,\N,\N,"Action,Adventure,Animation"
+tt0836272,tvEpisode,Spiders x Yokushin x The Members,Spiders x Yokushin x The Members,0,2000,\N,\N,"Action,Adventure,Animation"
+tt0836273,tvEpisode,Steak x Marathon x Exam Begins,Steak x Marathon x Exam Begins,0,1999,\N,\N,"Action,Adventure,Animation"
+tt0836274,tvEpisode,Tour x Tourist Attraction x Killua's House,Tour x Tourist Attraction x Killua's House,0,2000,\N,\N,"Action,Adventure,Animation"
+tt0836275,tvEpisode,Training x Hound x Concerted Effort,Training x Hound x Concerted Effort,0,2000,\N,\N,"Action,Adventure,Animation"
+tt0836276,tvEpisode,Transient x Life x Majitani,Transient x Life x Majitani,0,2000,\N,\N,"Action,Adventure,Animation"
+tt0836277,tvEpisode,Trauma x Limit x Sweet Trap,Trauma x Limit x Sweet Trap,0,1999,\N,\N,"Action,Adventure,Animation"
+tt0836278,tvEpisode,Treasures x Rememberance x Hotel's Small Room,Treasures x Rememberance x Hotel's Small Room,0,2000,\N,\N,"Action,Adventure,Animation"
+tt0836279,tvEpisode,Two Months x Rest x Restrict Nen with Nen,Two Months x Rest x Restrict Nen with Nen,0,2000,\N,\N,"Action,Adventure,Animation"
+tt0836280,tvEpisode,Ubo x Kurapica x Senritsu's Conscience,Ubo x Kurapica x Senritsu's Conscience,0,2001,\N,\N,"Action,Adventure,Animation"
+tt0836281,tvEpisode,Underground Auction x Annihilation x Machine Gun,Underground Auction x Annihilation x Machine Gun,0,2001,\N,\N,"Action,Adventure,Animation"
+tt0836282,tvEpisode,Little Ricky Learns to Play the Drums,Little Ricky Learns to Play the Drums,0,1956,\N,30,"Comedy,Family"
+tt0836283,tvEpisode,A Farewell to Armoires,A Farewell to Armoires,0,2006,\N,\N,Mystery
+tt0836284,tvEpisode,Episode dated 29 June 1970,Episode dated 29 June 1970,1,1970,\N,\N,"Drama,Romance"
+tt0836285,tvEpisode,Episode dated 15 July 1971,Episode dated 15 July 1971,0,1971,\N,\N,"Drama,Romance"
+tt0836286,tvEpisode,No Motive for Murder,No Motive for Murder,0,1971,\N,60,"Crime,Drama,Mystery"
+tt0836287,tvEpisode,2005 College Championship Quarterfinal Game 1,2005 College Championship Quarterfinal Game 1,0,2005,\N,30,"Game-Show,Short"
+tt0836289,tvEpisode,Episode #4.270,Episode #4.270,0,2006,\N,\N,"Comedy,Music,Talk-Show"
+tt0836290,tvEpisode,Princess for a Day,Princess for a Day,0,2006,\N,\N,"Animation,Comedy,Family"
+tt0836291,tvSeries,Der kleine EisbÃ¤r,Der kleine EisbÃ¤r,0,2002,\N,\N,"Animation,Family"
+tt0836292,tvEpisode,Final 2003,Final 2003,0,2003,\N,\N,"Music,Reality-TV"
+tt0836293,tvEpisode,Final 2004,Final 2004,0,2004,\N,\N,"Music,Reality-TV"
+tt0836294,tvEpisode,Final 2005,Final 2005,0,2005,\N,\N,"Music,Reality-TV"
+tt0836295,tvSeries,Komikfabrik,Komikfabrik,0,2006,\N,\N,Comedy
+tt0836296,tvEpisode,Luck Be a Lady,Luck Be a Lady,0,2007,\N,56,"Drama,Romance"
+tt0836297,tvEpisode,American Nightmare,American Nightmare,0,2006,\N,\N,Crime
+tt0836298,tvEpisode,Down on the Pharm,Down on the Pharm,0,2003,\N,\N,"Action,Adventure,Crime"
+tt0836299,tvEpisode,In Search of Childlike Joy and the Farthest Reaches of the Lotus Position,In Search of Childlike Joy and the Farthest Reaches of the Lotus Position,0,2002,\N,29,Comedy
+tt0836300,tvEpisode,West Australia,West Australia,0,\N,\N,\N,"Action,Comedy"
+tt0836301,tvSeries,Lauras Stern,Lauras Stern,0,1999,\N,\N,Animation
+tt0836302,tvEpisode,The Sorcerer's Apprentice,The Sorcerer's Apprentice,0,1998,\N,\N,"Adventure,Fantasy"
+tt0836303,tvEpisode,Champions,Champions,0,2006,\N,23,"Action,Animation,Sci-Fi"
+tt0836304,tvEpisode,Timber Wolf,Timber Wolf,0,2006,\N,23,"Action,Animation,Sci-Fi"
+tt0836306,tvEpisode,See Saw,See Saw,0,1962,\N,\N,"Animation,Family"
+tt0836307,tvEpisode,Episode dated 7 July 2006,Episode dated 7 July 2006,0,2006,\N,\N,"Documentary,News"
+tt0836308,tvEpisode,Episode dated 30 January 1978,Episode dated 30 January 1978,0,1978,\N,\N,"Drama,Romance"
+tt0836309,tvEpisode,David Chase,David Chase,0,2006,\N,\N,Talk-Show
+tt0319842,tvMovie,Mehr als nur Sex,Mehr als nur Sex,0,2002,\N,90,Comedy
+tt0319843,movie,The Mandrake,Mehre giah,0,1975,\N,105,"Drama,Mystery"
+tt0319844,movie,Meister Eder und sein Pumuckl,Meister Eder und sein Pumuckl,0,1982,\N,84,Family
+tt0319845,movie,Mela Thiranthathu Kadhavu,Mela Thiranthathu Kadhavu,0,1986,\N,142,Romance
+tt0319846,short,Mellem brÃ¸dre,Mellem brÃ¸dre,0,1997,\N,24,"Drama,Short"
+tt0319847,movie,Memis ile Ibis anaforcular krali,Memis ile Ibis anaforcular krali,0,1952,\N,\N,Comedy
+tt0319848,short,Memoria de una exposiciÃ³n,Memoria de una exposiciÃ³n,0,1974,\N,10,"Documentary,Short"
+tt0319849,tvShort,Memoriam,Memoriam,0,2001,\N,10,Short
+tt0319850,movie,Menamama,Menamama,0,1988,\N,\N,\N
+tt0319851,tvEpisode,Menuhin: A Family Portrait,Menuhin: A Family Portrait,0,1991,\N,\N,"Biography,Documentary"
+tt0319852,movie,Merupudadi,Merupudadi,0,1984,\N,140,"Action,Drama,Western"
+tt0319853,short,Mesteren,Mesteren,0,2000,\N,17,Short
+tt0319854,videoGame,Metroid Prime,Metroid Prime,0,2002,\N,\N,"Action,Adventure,Horror"
+tt0319855,tvMiniSeries,Mevrouw de minister,Mevrouw de minister,0,2002,\N,\N,Drama
+tt0319856,movie,Mi socio,Mi socio,0,1983,\N,\N,Drama
+tt0319857,movie,Mi venganza,Mi venganza,0,1990,\N,90,"Action,Crime,Drama"
+tt0319858,tvMovie,Michael Feinstein & Friends,Michael Feinstein & Friends,0,1991,\N,\N,\N
+tt0319859,tvEpisode,Michael Moschen in Motion,Michael Moschen in Motion,0,1991,\N,\N,Music
+tt0319860,movie,Migi muke hidari! Jieitai he ikÃ´,Migi muke hidari! Jieitai he ikÃ´,0,1995,\N,93,\N
+tt0319861,movie,El mil usos II,El mil usos II,0,1984,\N,\N,"Adventure,Comedy,Drama"
+tt0319862,tvMovie,The Miles Davis Story,The Miles Davis Story,0,2001,\N,125,Documentary
+tt0319863,tvEpisode,Miles Davis: A Tribute,Miles Davis: A Tribute,0,1993,\N,\N,Music
+tt0319864,short,The Mill on the Heath,The Mill on the Heath,0,1913,\N,\N,"Drama,Romance,Short"
+tt10139480,tvEpisode,Episode #5.2,Episode #5.2,0,2011,\N,\N,"Comedy,Family"
