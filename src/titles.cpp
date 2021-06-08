@@ -43,7 +43,7 @@ void Titles::readFile()
 
        TBasics tb = {att[0], att[1], att[2], att[3],
                     att[4], att[5], att[6], att[7], att[8]};
-       _mapTitleAtts.insert(att[0], tb); /// {tConst, TBasics}
+       _mapTitleAtts.insert(att[2], tb); /// {title, TBasics}
     }
 
     file.close();
